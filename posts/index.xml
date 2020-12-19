@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 00:11:38 +0800</lastBuildDate><atom:link href="https://robbypan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Dec 2020 14:27:29 +0800</lastBuildDate><atom:link href="https://robbypan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git操作温故知新</title>
+      <link>https://robbypan.github.io/2020/12/git%E6%93%8D%E4%BD%9C%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/</link>
+      <pubDate>Sat, 19 Dec 2020 14:27:29 +0800</pubDate>
+      
+      <guid>https://robbypan.github.io/2020/12/git%E6%93%8D%E4%BD%9C%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/</guid>
+      <description>git操作</description>
+    </item>
+    
     <item>
       <title>我的第一篇博客</title>
       <link>https://robbypan.github.io/2020/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
